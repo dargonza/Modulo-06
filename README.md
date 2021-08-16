@@ -1,4 +1,4 @@
-# Móulo 06 - Evidencias.
+# Módulo 06 - Evidencias.
 
 ## Semana 8
 
