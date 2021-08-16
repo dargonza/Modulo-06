@@ -1,4 +1,4 @@
-# Dario Gonzalez - Evidencia Dia 1 Semana 8
+# Dario Gonzalez - Evidencia Dia 5 Semana 8
 print 'Ingrese su nombre: '
 
 nombre = gets.chomp
