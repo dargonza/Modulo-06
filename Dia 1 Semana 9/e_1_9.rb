@@ -6,7 +6,7 @@ operador1 = gets.to_i
 print 'Ingrese el segundo operador: '
 operador2 = gets.to_i
 
-print 'Ingrese la operación a efectuar: '
+print 'Ingrese la operación (suma, resta, multiplicacion o division) a efectuar: '
 operacion  = gets.chomp
 
 resultado = 0
