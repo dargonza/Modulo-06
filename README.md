@@ -10,7 +10,7 @@
 - [x] Día 1 Semana 9
 - [ ] Día 2 Semana 9
 - [ ] Día 3 Semana 9
-- [ ] Día 4 Semana 9
+- [x] Día 4 Semana 9
 - [ ] Día 5 Semana 9
 - [ ] Día 6 Semana 9
 
