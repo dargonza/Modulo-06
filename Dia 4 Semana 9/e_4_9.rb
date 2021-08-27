@@ -1,18 +1,14 @@
 # Dario Gonzalez - Evidencia Dia 4 Semana 9.
-
 def cargar_nombres
   nombres = []
-
-  print ' Ingrese primer nombre: '
+  print ' Ingrese primer nombre: '  
   nombres << gets.chomp
 
   print ' Ingrese segundo nombre: '
   nombres << gets.chomp
 
   print ' Ingrese tercer nombre: '
-  nombres << gets.chomp
-
-  nombres
+  nombres << gets.chomp  
 end
 
 def ordenada(nombres)
